@@ -61,7 +61,8 @@ let project_descriptions = {
     "joystick": `Recreated the popular game 'Pac-Man' using the characters from the game 'Among Us' in OpenGL. <br><br>Implemented the Bellman Ford shortest path algorithm for the computer opponent to move towards the player's character.`,
     "brick": `Created a terminal-based version of the game 'Breakout' from scratch in python, using no libraries other than numpy and colorama. <br><br>Implemented multiple levels, boss character, various catchable power-ups, etc... <br><br>Made use of several Object Oriented Programming Concepts such as Inheritance, Polymorphism, Encapsulation and Abstraction`,
     "plane": `Rendered and animated multiple 3D solids and recreated the game 'Sky Force' in WebGL. <br><br>Created an animated trailer in Blender with the same 3D solids used in the game.`,
-    "filter": `Designed a cutoff filter to help choosing colleges during JoSAA counselling 2019 based on different filters like opening ranks, closing ranks, categories etc.`
+    "os": `Implemented multiple scheduling algorithms, namely FCFS, PBS and MLFQ, in MIT's xv6 operating system in order to maximize throughput.`,
+    "socket": `Established a socket connection between a client and server to facilitate file transfer between the two. <br><br>Made failsafes for several cases such as when read/write permissions are not available.`
 }
 
 
