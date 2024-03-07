@@ -62,7 +62,8 @@ let project_descriptions = {
     "brick": `Created a terminal-based version of the game 'Breakout' from scratch in python, using no libraries other than numpy and colorama. <br><br>Implemented multiple levels, boss character, various catchable power-ups, etc... <br><br>Made use of several Object Oriented Programming Concepts such as Inheritance, Polymorphism, Encapsulation and Abstraction`,
     "plane": `Rendered and animated multiple 3D solids and recreated the game 'Sky Force' in WebGL. <br><br>Created an animated trailer in Blender with the same 3D solids used in the game.`,
     "os": `Implemented multiple scheduling algorithms, namely FCFS, PBS and MLFQ, in MIT's xv6 operating system in order to maximize throughput.`,
-    "socket": `Established a socket connection between a client and server to facilitate file transfer between the two. <br><br>Made failsafes for several cases such as when read/write permissions are not available.`
+    "socket": `Established a socket connection between a client and server to facilitate file transfer between the two. <br><br>Made failsafes for several cases such as when read/write permissions are not available.`,
+    "website": `Code for this website! <br><br>Coded based on a colorlib template and a combination of multiple codepens and hosted using GitHub pages.`
 }
 
 
