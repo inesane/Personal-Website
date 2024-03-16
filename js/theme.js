@@ -49,8 +49,8 @@
 })(jQuery)
 
 let project_descriptions = {
-    "classroom" : `Developed a VR classroom environment supporting up to 16 users. <br><br>Implemented features such as voice chat, real-time interaction with peers, presentation sharing, and an external React whiteboard app. <br><br>Tested and optimized to run seamlessly on both Android mobile devices and VR headsets`,
-    "job-portal": `A job searching portal, with separate views for recruiters and applicants, complete with database and authentication functionalities`,
+    "classroom" : `Developed a VR classroom environment supporting up to 16 users. <br><br>Implemented features such as voice chat, real-time interaction with peers, presentation sharing, and an external React whiteboard app. <br><br>Tested and optimized to run seamlessly on both Android mobile devices and VR headsets.`,
+    "job-portal": `A job searching portal, with separate views for recruiters and applicants, complete with database and authentication functionalities.`,
     "turing": `Created an E-Magazine with Computer Science and Algorithms related articles as part of a team of 10. <br><br>Contributed articles and insights on topics such as the basics of Machine Learning and its applications in Dating, Gaming Bots, and the advent of GANs, Algorithmic Trading and Quantum Computing.`,
     "movie": `Built a Movie Recommender System similar to Netﬂix, utilizing factors like actors, genre, and by extracting semantic information from plot summaries using BERT. <br><br>Incorporated user-speciﬁc recommendations based on their previous reviews, enhancing personalization and relevance.`,
     "discord": `Developed a discord bot to manage transactions by 20 organizers for 71 participants for a college event <br><br>The bot was created using Discord.py and connected to sqlite for data storage, hosted and used in the event server with options to view the scoreboard, change scores, view history etc.`,
@@ -59,12 +59,12 @@ let project_descriptions = {
     "lenet": `Built LeNet-5 from scratch without any external libraries other than NumPy. <br><br>Implemented the entire Convolutional Neural Network according to the paper's specifications and created a GUI for testing the neural network.`,
     "heibi": `A scalable Flutter-based College Convenience Mobile application, linked with Firebase for data storage and easy access. <br><br> The app aims to make day to day functions for college student easier by monitoring and providing real time status updates about college amenities such as cafeterias, washing machines and sports facilities.`,
     "joystick": `Recreated the popular game 'Pac-Man' using the characters from the game 'Among Us' in OpenGL. <br><br>Implemented the Bellman Ford shortest path algorithm for the computer opponent to move towards the player's character.`,
-    "brick": `Created a terminal-based version of the game 'Breakout' from scratch in python, using no libraries other than numpy and colorama. <br><br>Implemented multiple levels, boss character, various catchable power-ups, etc... <br><br>Made use of several Object Oriented Programming Concepts such as Inheritance, Polymorphism, Encapsulation and Abstraction`,
+    "brick": `Created a terminal-based version of the game 'Breakout' from scratch in python, using no libraries other than numpy and colorama. <br><br>Implemented multiple levels, boss character, various catchable power-ups, etc... <br><br>Made use of several Object Oriented Programming Concepts such as Inheritance, Polymorphism, Encapsulation and Abstraction.`,
     "plane": `Rendered and animated multiple 3D solids and recreated the game 'Sky Force' in WebGL. <br><br>Created an animated trailer in Blender with the same 3D solids used in the game.`,
     "os": `Implemented multiple scheduling algorithms, namely FCFS, PBS and MLFQ, in MIT's xv6 operating system in order to maximize throughput.`,
     "socket": `Established a socket connection between a client and server to facilitate file transfer between the two. <br><br>Made failsafes for several cases such as when read/write permissions are not available.`,
     "website": `Code for this website! <br><br>Coded based on a colorlib template and a combination of multiple codepens and hosted using GitHub pages.`,
-    "tcav": `Built on TCAV, an ML paper that aims to find a link between recognizing an object and how important a certain feature is to that objects detection. <br><br>Implemented baseline TCAV model and attempted to extend this idea in multiple manners including detecting medical conditions (arthritis - presence of bone spurs).`
+    "tcav": `Built on TCAV, an ML paper that aims to find a link between recognizing an object and how important a certain feature is to that objects detection. <br><br>Implemented baseline TCAV model and attempted to extend this idea in multiple manners including detecting medical conditions such as arthritis using the presence of bone spurs.`
 }
 
 
