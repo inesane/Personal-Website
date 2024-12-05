@@ -2741,8 +2741,34 @@ h6 {
       transform: translateY(-50%);
       font-size: 20px;
       color: #766dff; }
+      
+.personal_text .basic_info li:last-child {
+  margin-bottom: 0px; }
+  .personal_text .basic_info li {
+    margin-bottom: 15px;
+    display: flex; /* Use Flexbox for alignment */
+    align-items: center; /* Align icon and text vertically */
+  }
+  
+  .personal_text .basic_info li a {
+    display: flex; /* Flexbox for child elements */
+    align-items: center; /* Align items vertically */
+    font-size: 16px;
+    color: #777777;
+    text-decoration: none; /* Optional: remove underline */
+  }
+  
+  .personal_text .basic_info li a i {
+    font-size: 20px;
+    color: #766dff;
+    margin-right: 10px; /* Spacing between icon and text */
+    flex-shrink: 0; /* Prevent icon from shrinking */
+  }
+  
   .personal_text .basic_info li:last-child {
-    margin-bottom: 0px; }
+    margin-bottom: 0px;
+  }
+    
 .personal_text .personal_social {
   margin-top: 45px; }
   .personal_text .personal_social li {
